@@ -1,0 +1,10 @@
+huggingface-hub>=0.20.0
+transformers>=4.36.0
+onnxruntime>=1.17.0
+mitmproxy>=10.0.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+numpy>=1.26.0
+requests>=2.31.0
+onnx>=1.15.0
+# llama-cpp-python  # Optional: for red teaming (may require build tools)

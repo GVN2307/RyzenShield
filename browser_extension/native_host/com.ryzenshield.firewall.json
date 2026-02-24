@@ -1,0 +1,9 @@
+{
+    "name": "com.ryzenshield.firewall",
+    "description": "RyzenShield AI Firewall Native Host",
+    "path": "host.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://PASTE_YOUR_EXTENSION_ID_HERE/"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "target": "RyzenAI-Phoenix",
+    "vaip_config": {
+        "compiler": {
+            "arch": "DPUv4IP-1x4"
+        }
+    }
+}

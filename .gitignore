@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models (Gated and Large)
+models/
+models/prompt-guard/
+
+# Database
+shared/firewall.db
+
+# Logs and Temporary files
+*.log
+crash_log.txt
+debug_init.py
+minimal_app.py
+
+# System
+.DS_Store
+Thumbs.db
+
+# Browser Extension local artifacts
+browser_extension/dist/
+node_modules/
